@@ -1,4 +1,5 @@
-﻿char c1 = 'A';
+﻿/*
+char c1 = 'A';
 char c2 = 'A';
 Console.WriteLine(c1 == c2);
 object o1 = 'A';
@@ -53,3 +54,26 @@ Console.WriteLine(--x == 10); // preguntar
 Console.WriteLine("Ingrese su nombre");
 string nombre = Console.ReadLine();
 Console.WriteLine("Hola " + nombre);
+*/
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Punto uno");
+        Uno.One();
+        Console.WriteLine("Punto dos");
+        Dos.Resolver();
+        Console.WriteLine("Punto tres");
+        Tres.Resolver();
+        Console.WriteLine("Punto cuatro");
+        Cuatro.Resolver();
+        Console.WriteLine ("Punto cinco");
+        Cinco.Resolver();
+        Console.WriteLine ("Punto seis");
+        Seis.Resolver();
+        Console.WriteLine("Punto siete");
+        Siete.Resolver();
+        Console.WriteLine ("Punto ocho");
+        Ocho.Resolver();
+    }
+}

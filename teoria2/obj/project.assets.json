@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\isabe\\.nuget\\packages\\": {}
+    "/home/alumnos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isabe\\proyectosDotnet\\teoria2\\teoria2.csproj",
+      "projectUniqueName": "/home/alumnos/proyectosDotnet/.net/.net-main/teoria2/teoria2.csproj",
       "projectName": "teoria2",
-      "projectPath": "C:\\Users\\isabe\\proyectosDotnet\\teoria2\\teoria2.csproj",
-      "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isabe\\proyectosDotnet\\teoria2\\obj\\",
+      "projectPath": "/home/alumnos/proyectosDotnet/.net/.net-main/teoria2/teoria2.csproj",
+      "packagesPath": "/home/alumnos/.nuget/packages/",
+      "outputPath": "/home/alumnos/proyectosDotnet/.net/.net-main/teoria2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\isabe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/alumnos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/alumnos/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
